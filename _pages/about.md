@@ -19,14 +19,16 @@ Education
 
 - 2018.09 - 2022.06, China Jiliang University, Bachelor
   - Information and Computing Science, College of Science
-    
-Research {#research}
+
+<a name="research"></a>
+Research 
 ------
 - Federated Graph Learning
 - LLM
 - Spatiotemporal Data Mining
-  
-Publications {#publications}
+
+<a name="publications"></a>
+Publications 
 ------
 1. **Zhehao Dai**, Guojiang Shen, Yuyue Hu, Jiaxin Du, Xiao Han, Xiangjie Kong. FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes. The 34th ACM International Conference on Information and Knowledge Management (CIKM'25), November 10 - 14, 2025, Seoul, Republic of Korea.
 2. **Zhehao Dai**, Guojiang Shen, Haopeng Yuan, Shangfei Zheng, Yuyue Hu, Jiaxin Du, Xiangjie Kong, Feng Xia. Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation. Information Sciences, 2025: 122338.
