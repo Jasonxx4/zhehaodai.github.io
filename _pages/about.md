@@ -14,11 +14,9 @@ My research focuses on Federated Graph Learning, Large Language Models, and Spat
 Education
 ------
 - 2023.09 - 2026.06, Zhejiang University of Technology, Master
-
   - Computer Science and Technology, College of Computer Science and Technology
 
 - 2018.09 - 2022.06, China Jiliang University, Bachelor
-
   - Information and Computing Science, College of Science
 
 Research
