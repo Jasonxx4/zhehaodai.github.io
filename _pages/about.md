@@ -11,6 +11,7 @@ Currently, I am pursuing the M.S. degree under the advisory of Prof. Guojiang Sh
 
 My research focuses on Federated Graph Learning, Large Language Models, and Spatiotemporal Data Mining. Until now, I have published 3 papers in machine learning and data mining , including CIKM, ,Information Sciences and IEEE IOTJ.
 
+
 <a name="education"></a>
 Education 
 ------
