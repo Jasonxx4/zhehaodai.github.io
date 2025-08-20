@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<a name="homepage"></a>
 Currently, I am pursuing the M.S. degree under the advisory of Prof. Guojiang Shen and Prof. Xiangjie Kong, in the College of Computer Science and Technology, Zhejiang University of Technology, Zhejiang, China. Before my Master's studies, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
 My research focuses on Federated Graph Learning, Large Language Models, and Spatiotemporal Data Mining. Until now, I have published 3 papers in machine learning and data mining , including CIKM, ,Information Sciences and IEEE IOTJ.
-
 
 <a name="education"></a>
 Education 
