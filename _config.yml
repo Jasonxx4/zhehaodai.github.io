@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dzh_cv.jpg"
+  avatar           : "dzh_cv.png"
   name             : "Zhehao Dai"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student, Zhejiang University of Technology"
