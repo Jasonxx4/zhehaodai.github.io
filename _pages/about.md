@@ -11,7 +11,7 @@ Currently, I am pursuing the M.S. degree under the advisory of Prof. Guojiang Sh
 
 My research focuses on Federated Graph Learning, Large Language Models, and Spatiotemporal Data Mining. Until now, I have published 3 papers in machine learning and data mining , including CIKM, ,Information Sciences and IEEE IOTJ.
 
-<span id="education">Education</span>
+Education {#education}
 ------
 - 2023.09 - 2026.06, Zhejiang University of Technology, Master
   - Computer Science and Technology, College of Computer Science and Technology
@@ -19,13 +19,13 @@ My research focuses on Federated Graph Learning, Large Language Models, and Spat
 - 2018.09 - 2022.06, China Jiliang University, Bachelor
   - Information and Computing Science, College of Science
     
-<span id="research">Research</span>
+Research {#research}
 ------
 - Federated Graph Learning
 - LLM
 - Spatiotemporal Data Mining
   
-<span id="publications">Publications</span>
+Publications {#publications}
 ------
 1. **Zhehao Dai**, Guojiang Shen, Yuyue Hu, Jiaxin Du, Xiao Han, Xiangjie Kong. FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes. The 34th ACM International Conference on Information and Knowledge Management (CIKM'25), November 10 - 14, 2025, Seoul, Republic of Korea.
 2. **Zhehao Dai**, Guojiang Shen, Haopeng Yuan, Shangfei Zheng, Yuyue Hu, Jiaxin Du, Xiangjie Kong, Feng Xia. Towards Heterogeneous Federated Graph Learning via Structural Entropy and Prototype Aggregation. Information Sciences, 2025: 122338.
